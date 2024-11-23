@@ -5,6 +5,7 @@
 
 ## Hello there 👋🏽, I'm [Olawale](https://github.com/walethewave)
 Data Analyst/ Data Scienctist 
+
 Mathematician
 Below are a few links you can visit.
 
