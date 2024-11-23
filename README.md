@@ -7,6 +7,7 @@
 Data Analyst/ Data Scienctist 
 
 Mathematician
+
 Below are a few links you can visit.
 
 [![GitHub](https://img.shields.io/badge/GitHub-walethewave-blue)](https://github.com/walethewave)
