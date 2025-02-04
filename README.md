@@ -4,6 +4,8 @@
 
 ### Hi there, I'm Olawale 👨🏽💻
 #### Turning Raw Data into Actionable Insights 🔍📈
+Data Analyst/ Data Scienctist /
+Mathematician
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge)](https://olawale-ten.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
@@ -18,7 +20,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
 
 ---
 
@@ -34,6 +36,8 @@
 - 📚 Deep diving into Machine Learning with Scikit-learn
 - 🎯 Collaborating on analytics dashboards in Power BI
 - 🤝 Open to data roles & interesting collaborations
+- 📫 How to reach me: 💬   📥 <a href="mailto:lekanolawale477@gmail.com" target="_blank">[Email]</a>.
+
 
 ---
 
