@@ -25,7 +25,7 @@ Mathematician
 ---
 
 ### 🔥 Recent Projects
-[![Retail_Intelligence ](https://img.shields.io/badge/🛒_Market_Basket_Analysis-8A2BE2)](https://github.com/walethewave/Retail-Intelligence)
+[![Retail_Intelligence ](https://img.shields.io/badge/🛒_Retail_Intelligence-8A2BE2)](https://github.com/walethewave/Retail-Intelligence)
 [![Sales Performance](https://img.shields.io/badge/📊_Sales_Performance_Analysis-00BFFF)](https://github.com/walethewave/SQL-Driven-Sales-Performance-Analysis)
 [![Predictive Insights](https://img.shields.io/badge/🔮_Predictive_Insights_ETL-228B22)](https://github.com/walethewave/Data-Predictive-Insights-ETL)
 
