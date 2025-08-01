@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌊 Olawale "WaveTheData" Adebayo
+# 🌊 Afolabi Olawale
+
 ### *Where Mathematics Meets Machine Intelligence*
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Scientist+%7C+Problem+Solver;Transforming+Raw+Data+into+Intelligent+Solutions;Building+AI+That+Actually+Works+in+Production;6+Projects+%7C+Live+Demos+%7C+Real+Impact" alt="Typing SVG" />
