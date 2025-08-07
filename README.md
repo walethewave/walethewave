@@ -68,7 +68,7 @@ From detecting fraudulent transactions in messy financial logs to building AI-po
 - **Impact**: Interactive Streamlit app with real user engagement
 - **Tech**: `Streamlit` `Google Gemini` `Pydantic` `Psychology APIs`
 
-[🚀 Try It Live](https://confidenceai-demo.streamlit.app) | [📖 Documentation](https://github.com/walethewave/confidenceai)
+[🚀 Try It Live]((https://9punzdhswetzx92taubijy.streamlit.app/)) | [📖 Documentation](https://github.com/walethewave/confidenceai)
 
 </td>
 <td width="50%">
