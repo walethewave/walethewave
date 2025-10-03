@@ -73,14 +73,7 @@ From detecting fraudulent transactions in messy financial logs to building AI-po
 </td>
 <td width="50%">
 
-### 🕵️ [Anomaly Detection in Financial Logs](https://github.com/walethewave/financial-anomaly-detection)
-**🏆 PORTFOLIO HIGHLIGHT**
-> *Finding fraud in messy, unstructured financial data*
 
-- **The Challenge**: Real financial logs aren't clean CSVs
-- **My Innovation**: Regex + NLP pipeline for raw log parsing
-- **Achievement**: Detects patterns humans miss in unstructured text
-- **Tech**: `NLP` `Regex` `Scikit-learn` `Pattern Recognition`
 
 [🔍 Explore Code](https://github.com/walethewave/financial-anomaly-detection)
 
