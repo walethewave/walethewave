@@ -18,7 +18,7 @@
 
 **"Every dataset tells a story. I help organizations listen."**
 
-From detecting fraudulent transactions in messy financial logs to building AI-powered confidence coaches, I specialize in turning complex data challenges into elegant, production-ready solutions. With a mathematician's precision and an engineer's pragmatism, I build AI systems that don't just work in notebooks—they thrive in the real world.
+From predicting e-sign behavior in digital lending to building AI-powered confidence coaches, I specialize in turning complex data challenges into elegant, production-ready solutions. With a mathematician's precision and an engineer's pragmatism, I build AI systems that don't just work in notebooks—they thrive in the real world.
 
 <div align="center">
 
@@ -39,6 +39,7 @@ From detecting fraudulent transactions in messy financial logs to building AI-po
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### AI/ML Expertise
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -59,7 +60,7 @@ From detecting fraudulent transactions in messy financial logs to building AI-po
 <tr>
 <td width="50%">
 
-### 🧠 [ConfidenceAI - Personal Coach](https://github.com/walethewave/confidenceai)
+### 🧠 [ConfidenceAI - Personal Coach](https://github.com/walethewave/AI-Powered-Confidence-Coaching-App)
 **🌟 LIVE DEMO AVAILABLE**
 > *AI-powered confidence coaching that actually works*
 
@@ -68,21 +69,28 @@ From detecting fraudulent transactions in messy financial logs to building AI-po
 - **Impact**: Interactive Streamlit app with real user engagement
 - **Tech**: `Streamlit` `Google Gemini` `Pydantic` `Psychology APIs`
 
-[🚀 Try It Live]((https://9punzdhswetzx92taubijy.streamlit.app/)) | [📖 Documentation](https://github.com/walethewave/confidenceai)
+[🚀 Try It Live](https://9punzdhswetzx92taubijy.streamlit.app/) | [📖 Documentation](https://github.com/walethewave/AI-Powered-Confidence-Coaching-App)
 
 </td>
 <td width="50%">
 
+### 🏦 [Digital Lending E-Sign Predictor](https://github.com/walethewave/Digital-Lending-E-Sign-Prediction-System)
+**💼 PRODUCTION ML SYSTEM**
+> *Predicting loan applicant behavior in digital finance*
 
+- **Business Impact**: Streamline digital lending operations
+- **Innovation**: ML-powered e-sign prediction for targeted engagement
+- **Real-World Value**: Reduce friction, optimize onboarding
+- **Tech**: `Scikit-learn` `Feature Engineering` `Classification` `Banking ML`
 
-[🔍 Explore Code](https://github.com/walethewave/financial-anomaly-detection)
+[🔍 Explore Code](https://github.com/walethewave/Digital-Lending-E-Sign-Prediction-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 [Sentiment Lab - Production NLP](https://github.com/walethewave/sentiment-lab)
+### 📊 [Sentiment Lab - Production NLP](https://github.com/walethewave/Sentiment-Lab-NLP)
 **⚡ END-TO-END PIPELINE**
 > *From raw text to actionable emotional insights*
 
@@ -91,19 +99,21 @@ From detecting fraudulent transactions in messy financial logs to building AI-po
 - **Learning**: Comparative analysis of TF-IDF vs modern approaches
 - **Tech**: `NLTK` `TF-IDF` `Naive Bayes` `Performance Optimization`
 
+[📖 View Project](https://github.com/walethewave/Sentiment-Lab-NLP)
+
 </td>
 <td width="50%">
 
-### 🎮 [Game Narrative Generator](https://github.com/walethewave/game-narrative-generator)
-**🎯 CREATIVE AI APPLICATION**
-> *AI that writes compelling game storylines*
+### 🤖 [AI Sentence Completion](https://github.com/walethewave/-AI-Powered-Sentence-Completion)
+**🎯 CREATIVE NLP APPLICATION**
+> *Intelligent text prediction and completion*
 
-- **Creative Challenge**: Generate coherent fantasy narratives
-- **Technical Achievement**: Custom training on game-specific corpus
-- **User Experience**: Interactive web interface for story generation
-- **Tech**: `TF-IDF` `Text Generation` `Streamlit` `Creative AI`
+- **Challenge**: Generate coherent and contextually relevant text
+- **Technical Achievement**: Custom training for natural completions
+- **Application**: Writing assistance and language modeling
+- **Tech**: `NLP` `Text Generation` `Language Models` `TF-IDF`
 
-[🎮 Generate Stories Live](https://game-narrative-demo.streamlit.app)
+[🚀 Explore Code](https://github.com/walethewave/-AI-Powered-Sentence-Completion)
 
 </td>
 </tr>
@@ -115,9 +125,9 @@ From detecting fraudulent transactions in messy financial logs to building AI-po
 
 | Project | Description | Key Achievement | Tech Stack |
 |---------|-------------|-----------------|------------|
-| [💰 Salary Predictor](https://github.com/walethewave/salary-prediction) | ML model predicting compensation from experience | 94% accuracy on real market data | `Regression` `Scikit-learn` |
-| [🏪 Retail Intelligence](https://github.com/walethewave/retail-intelligence) | Complete sales analytics dashboard | Identified 23% revenue opportunity | `SQL` `Power BI` `Excel` |
-| [📊 Predictive ETL Pipeline](https://github.com/walethewave/predictive-etl) | End-to-end data pipeline with forecasting | Automated data processing + ML | `ETL` `Pandas` `Forecasting` |
+| [💰 Smart Salary Predictor](https://github.com/walethewave/smart-salary-predictor) | ML model predicting compensation from experience | High-accuracy salary forecasting | `Regression` `Scikit-learn` `Feature Engineering` |
+| [🤚 Sign Language Recognition](https://github.com/walethewave/Sign-Language-Hand-Gesture-Recognition-Using--CNN) | CNN-based hand gesture recognition system | Real-time sign language translation | `CNN` `TensorFlow` `Computer Vision` `Deep Learning` |
+| [📊 Retail Intelligence](https://github.com/walethewave/retail-intelligence) | Complete sales analytics dashboard | Identified 23% revenue opportunity | `SQL` `Power BI` `Excel` |
 
 </div>
 
@@ -173,7 +183,7 @@ graph LR
 | 🎯 **Problem Solver** | 🚀 **Production Ready** | 📚 **Continuous Learner** |
 |:---------------------:|:------------------------:|:--------------------------:|
 | I tackle messy, real-world data challenges | My code runs in production, not just notebooks | Always exploring cutting-edge AI techniques |
-| *Financial fraud detection from raw logs* | *Live Streamlit apps with real users* | *Currently mastering LangChain & Agents* |
+| *Digital lending predictions & NLP systems* | *Live Streamlit apps with real users* | *Currently mastering LangChain & Agents* |
 
 </div>
 
