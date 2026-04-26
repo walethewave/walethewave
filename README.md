@@ -23,9 +23,7 @@
 
 ## Who I Am
 
-I'm an AI Engineer at **[Qucoon](https://github.com/QucoonAI)** — a Nigerian fintech AI company — where I design and ship production AI systems that handle real financial transactions, real users, and real edge cases. My background in mathematics gives me first-principles understanding of the models I build, not just the APIs I call.
-
-I came **1st out of 70 candidates** selected from a pool of **5,000 applicants**.
+I'm an AI Engineer at **[Qucoon](https://github.com/QucoonAI). My background in mathematics gives me first-principles understanding of the models I build, not just the APIs I call.
 
 I build things that work in Nigeria — where internet is unreliable, data is scarce, and most global AI tools were never built with us in mind.
 
@@ -46,7 +44,7 @@ I build things that work in Nigeria — where internet is unreliable, data is sc
 - **FastAPI** REST APIs serving real client queries in production
 - Retrieval pipeline with semantic search and fallback logic for low-confidence responses
 
-### 🏥 Gerocare Copilot — [QucoonAI](https://github.com/QucoonAI)
+### 🏥 Gerocare Copilot
 - AI copilot system for elderly healthcare management
 - Built and deployed under QucoonAI in a real production environment
 
@@ -56,7 +54,6 @@ I build things that work in Nigeria — where internet is unreliable, data is sc
 
 **Languages & Backend**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -64,7 +61,6 @@ I build things that work in Nigeria — where internet is unreliable, data is sc
 
 **AI / ML / NLP**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
